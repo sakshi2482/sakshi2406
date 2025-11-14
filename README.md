@@ -23,7 +23,7 @@
 - **Python Mini Projects**  
   Small programs like calculator, file organizer, QR generator.
 
-  ![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi2406&show_icons=true&theme=tokyonight)
+  ![Sakshi's birajdar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi2406&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2406&layout=compact&theme=tokyonight)
 
