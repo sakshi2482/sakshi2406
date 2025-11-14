@@ -9,4 +9,17 @@
 - Programming:Python, C, Java  
 - Cloud & DevOps: Linux, Git, GitHub, Docker (Beginner)  
 - Core ENTC: Networking, Operating Systems  
-- Tools: VS Code, Wireshark, Jupyter  
+- Tools: VS Code, Wireshark, Jupyter
+  ### 🚀 Projects  
+- **Network Performance Analyzer (CNS Project)**  
+  Monitors bandwidth, latency, jitter and packet loss using simple scripts/tools.
+
+- **File System Analyzer (OS Project)**  
+  Shows directory structure, file details and storage usage.
+- **Speech Recognition using MFCC + CNN**  
+  Extracts MFCC features and predicts commands using a CNN model.
+- **GPS Tracking System (Mini Project)**  
+  Tracks location using Python + API and displays on map.
+- **Python Mini Projects**  
+  Small programs like calculator, file organizer, QR generator.
+
