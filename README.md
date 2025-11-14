@@ -22,10 +22,6 @@
   Tracks location using Python + API and displays on map.
 - **Python Mini Projects**  
   Small programs like calculator, file organizer, QR generator.
-
-  ![Sakshi's birajdar GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi2406&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2406&layout=compact&theme=tokyonight)
-
-
-
+  
+![Sakshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshi2406&show_icons=true&theme=tokyonight&cache_seconds=3600&v=1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshi2406&layout=compact&theme=tokyonight&cache_seconds=3600&v=1)
